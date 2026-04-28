@@ -1,38 +1,61 @@
-# 👋 Hey, I'm st1ll
+# 𝖘𝖙1𝖑𝖑𝖈𝖟𝖊𝖚
 
-I'm a developer originally from the Czech Republic, currently based in the Netherlands.
-I build pretty much anything that comes to mind, but most of my work is focused around FiveM.
+```txt
+Unknown origin. Silent process. Constant creation.
+```
 
-## 🛠 What I do
+Developer focused on building custom systems, underground concepts, and projects that stand out from the usual copy-paste scene.
+Most work revolves around FiveM development, private tools, backend systems, and experimental ideas that start as concepts and turn into something real.
 
-* FiveM scripting (ESX / custom systems)
-* Backend logic & integrations (Discord bots, APIs, etc.)
-* Game related tools and utilities
-* Random side projects when I get bored
+---
 
-## 🚧 Projects
+## ⚫ Main Project
 
-Most of my main work revolves around FiveM:
+# Z3RO PVP
+A competitive FiveM PvP project built around speed, atmosphere, clean mechanics, and a darker identity.
+Not designed to follow trends — built to create its own.
 
-* Custom scripts (VIP systems, anti-cheat, admin tools)
-* Server-side systems and optimizations
-* Discord integrations for automation & control
+---
 
-I like keeping things simple, clean, and actually usable.
+## ⚙️ Languages & Technologies
 
-## ⚙️ Stack
+```txt
+Lua          → FiveM systems & scripting
+JavaScript   → backend logic & automation
+Node.js      → APIs & integrations
+HTML / CSS   → interfaces & UI
+SQL / MySQL  → database structure
+Discord API  → tools & custom utilities
+```
 
-* Lua (mainly for FiveM)
-* JavaScript / Node.js
-* Basic frontend when needed
-* Databases (MySQL, etc.)
+---
 
-## 📌 About me
+## 🜏 Focus
 
-* I don’t stick to one thing — if it looks interesting, I’ll build it
-* Prefer practical solutions over overcomplicated ones
-* Always learning something new along the way
+* Custom FiveM systems
+* PvP mechanics & game logic
+* Discord integrations
+* Private development projects
+* Performance & optimization
+* Unique concepts with minimal design
 
-## 📫 Contact
+---
 
-* E-mail: st1llczeu@proton.me
+## 🧠 Mindset
+
+> Build what doesn’t exist.
+> Keep it clean. Keep it hidden.
+
+No unnecessary noise.
+No recycled ideas.
+Just code, systems, and creation.
+
+---
+
+## 📡 Contact
+
+**Email:** `st1llczeu@proton.me`
+
+```txt
+// always building
+```
