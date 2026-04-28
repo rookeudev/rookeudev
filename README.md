@@ -10,7 +10,7 @@ Most work revolves around FiveM development, private tools, backend systems, and
 
 # Z3RO PVP
 A competitive FiveM PvP project built around speed, atmosphere, clean mechanics, and a darker identity.
-Not designed to follow trends — built to create its own.
+Not designed to follow trends built to create its own.
 
 ---
 
